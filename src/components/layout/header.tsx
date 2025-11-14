@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Menu, X } from 'lucide-react';
+import { Menu, X, Code } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { ThemeToggle } from '../theme-toggle';
@@ -32,8 +32,9 @@ export function Header() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           <div className="flex-1 md:flex-none">
-            <Link href="/" className="text-2xl font-headline font-bold text-primary hover:text-accent transition-colors text-glow-primary glow-on-hover-accent rounded-md p-2">
-              SMA
+            <Link href="/" className="text-primary hover:text-accent transition-colors glow-on-hover-accent rounded-md p-2 flex items-center">
+              <Code className="h-8 w-8 text-glow-primary" />
+              <span className="sr-only">Home</span>
             </Link>
           </div>
 

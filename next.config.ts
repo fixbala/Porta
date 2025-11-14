@@ -8,8 +8,8 @@ const nextConfig = {
   output: 'export',
 
   // Set the base path and asset prefix for GitHub Pages
-  basePath: isProd ? '/Presentacion' : '',
-  assetPrefix: isProd ? '/Presentacion/' : '',
+  basePath: isProd ? '/Porta' : '',
+  assetPrefix: isProd ? '/Porta/' : '',
 
   // Disable Next.js image optimization, which is not compatible with static export
   images: {

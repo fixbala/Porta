@@ -13,6 +13,10 @@ export function Contact() {
   const linkedin = socialLinks.find(link => link.name === 'LinkedIn');
   const whatsapp = socialLinks.find(link => link.name === 'WhatsApp');
 
+  // Determinar la ruta base dinámicamente
+  const basePath = process.env.NODE_ENV === 'production' ? '/Porta' : '';
+  const cvPath = `${basePath}/CV.pdf`;
+
   return (
     <section id="contact" className="py-20 sm:py-32">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -67,7 +71,7 @@ export function Contact() {
               </div>
 
                <Button asChild size="lg" className="w-full transition-transform hover:scale-105">
-                <a href="/CV.pdf" download="CV.pdf">
+                <a href={cvPath} download="CV-Santiago-Martinez.pdf">
                   <Download className="mr-2 h-5 w-5" />
                   {t('contact.download_cv')}
                 </a>

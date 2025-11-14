@@ -86,7 +86,7 @@
         "longDescription": "Creation of a multi-vendor e-commerce platform with an integrated payment gateway, optimized for high performance and security.",
         "technologies": ["Angular", "Spring Boot", "MySQL", "Stripe"],
         "link": "https://github.com/santiagomartinez12",
-        "image": { "src": "https://images.unsplash.com/photo-1674027392887-751d6396b710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzdG9yZXxlbnwwfHx8fDE3NjI5MzkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Multi-Vendor E-commerce Platform", "hint": "online store" }
+        "image": { "src": "https://images.unsplash.com/photo-1674027392887-751d6396b710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzdG9yZXxlbnwwfHx8fDE3NjI5MzkyOTN8MA&ixlib-rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Multi-Vendor E-commerce Platform", "hint": "online store" }
       },
       {
         "id": "p3",
@@ -95,7 +95,7 @@
         "longDescription": "Implementation of bots to automate back-office tasks, reducing processing time by 75% and minimizing human errors.",
         "technologies": ["Python", "RPA", "AWS Lambda"],
         "link": "https://github.com/santiagomartinez12",
-        "image": { "src": "https://images.unsplash.com/photo-1736488679013-38f65b0ae82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9jZXNzJTIwYXV0b21hdGlvbnxlbnwwfHx8fDE3NjI5NjIyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Back-Office Process Automation", "hint": "process automation" }
+        "image": { "src": "https://images.unsplash.com/photo-1736488679013-38f65b0ae82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9jZXNzJTIwYXV0b21hdGlvbnxlbnwwfHx8fDE3NjI5NjIyOTR8MA&ixlib-rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Back-Office Process Automation", "hint": "process automation" }
       },
       {
         "id": "p4",
@@ -104,7 +104,7 @@
         "longDescription": "This project involved developing an interactive dashboard for real-time data stream visualization and monitoring. Using WebSockets for efficient bidirectional communication, the application is supported by a robust infrastructure with Spring Boot and Kafka, ensuring high-performance, low-latency event processing. The interface, developed in Angular, offers a smooth and responsive user experience.",
         "technologies": ["Angular", "Spring Boot", "WebSocket", "Kafka"],
         "link": "https://github.com/santiagomartinez12",
-        "image": { "src": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YSUyMGNvZGV8ZW58MHx8fHwxNzYyOTE4NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Real-Time Data Analysis Dashboard", "hint": "data code" }
+        "image": { "src": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YSUyMGNvZGV8ZW58MHx8fHwxNzYyOTE4NjUzfDA&ixlib-rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Real-Time Data Analysis Dashboard", "hint": "data code" }
       },
       {
         "id": "p5",
@@ -113,7 +113,7 @@
         "longDescription": "Implementation of a complete security system for an enterprise application. Spring Security was used to manage role-based authentication and authorization, protecting application resources from unauthorized access. The solution integrates standards such as OAuth 2.0 and JSON Web Tokens (JWT) to secure communications and API access.",
         "technologies": ["Spring Security", "OAuth 2.0", "JWT", "PostgreSQL"],
         "link": "https://github.com/santiagomartinez12",
-        "image": { "src": "https://images.unsplash.com/photo-1639503547276-90230c4a4198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzZWN1cml0eSUyMGxvZ2lufGVufDB8fHx8MTc2MjkxMTY3NHww&ixlib=rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Authentication and Authorization System", "hint": "security login" }
+        "image": { "src": "https://images.unsplash.com/photo-1639503547276-90230c4a4198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzZWN1cml0eSUyMGxvZ2lufGVufDB8fHx8MTc2MjkxMTY3NHww&ixlib-rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "Authentication and Authorization System", "hint": "security login" }
       },
       {
         "id": "p6",
@@ -122,7 +122,7 @@
         "longDescription": "Development of an API Gateway that acts as a single entry point for a microservices architecture. This central component handles request routing, authentication, and monitoring of the different services, simplifying communication and improving system security and scalability. It was implemented using Spring Cloud Gateway and integrated with Netflix Eureka for service discovery.",
         "technologies": ["Spring Cloud Gateway", "Netflix Eureka", "Docker"],
         "link": "https://github.com/santiagomartinez12",
-        "image": { "src": "https://images.unsplash.com/photo-1628573413574-2b35620de9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbG91ZCUyMG5ldHdvcmt8ZW58MHx8fHwxNzYyOTM0MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "API Gateway for Microservices", "hint": "cloud network" }
+        "image": { "src": "https://images.unsplash.com/photo-1628573413574-2b35620de9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbG91ZCUyMG5ldHdvcmt8ZW58MHx8fHwxNzYyOTM0MzA5fDA&ixlib-rb-4.1.0&q=80&w=1080", "width": 600, "height": 400, "alt": "API Gateway for Microservices", "hint": "cloud network" }
       }
     ]
   },
@@ -132,7 +132,6 @@
     { "name": "Skills", "href": "#skills" },
     { "name": "Projects", "href": "#projects" },
     { "name": "Certifications", "href": "#certifications" },
-    { "name": "AI Architect", "href": "#recommendation" },
     { "name": "Contact", "href": "#contact" }
   ],
   "contact": {
@@ -151,18 +150,5 @@
   },
   "experience": {
     "title_section": "Professional Experience"
-  },
-  "architect": {
-    "title_section": "AI Project Architect",
-    "description": "Have an idea for an app? Describe it below and let the AI build a complete technical plan for you, including technologies, methodology, and the team you'll need.",
-    "form_label": "Describe your project idea",
-    "form_placeholder": "e.g., A mobile app for tracking personal expenses with budget categories and monthly reports...",
-    "button_cta": "Generate Plan",
-    "button_pending": "Generating...",
-    "results_title": "Generated Project Plan",
-    "results_technologies": "Recommended Technologies",
-    "results_database": "Database",
-    "results_methodology": "Development Methodology",
-    "results_team": "Recommended Team"
   }
 }

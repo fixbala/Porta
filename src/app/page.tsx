@@ -6,7 +6,6 @@ import { Projects } from '@/components/landing/projects';
 import { Skills } from '@/components/landing/skills';
 import { Footer } from '@/components/layout/footer';
 import { Header } from '@/components/layout/header';
-import { Recommendation } from '@/components/landing/recommendation';
 import { Toaster } from '@/components/ui/toaster';
 import { Certifications } from '@/components/landing/certifications';
 import { Experience } from '@/components/landing/experience';
@@ -26,7 +25,6 @@ export default function Home() {
           <Skills />
           <Projects />
           <Certifications />
-          <Recommendation />
           <Contact />
         </main>
         <Footer />

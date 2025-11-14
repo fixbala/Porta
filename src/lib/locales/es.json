@@ -132,7 +132,6 @@
     { "name": "Habilidades", "href": "#skills" },
     { "name": "Proyectos", "href": "#projects" },
     { "name": "Certificaciones", "href": "#certifications" },
-    { "name": "Arquitecto IA", "href": "#recommendation" },
     { "name": "Contacto", "href": "#contact" }
   ],
   "contact": {
@@ -151,18 +150,5 @@
   },
   "experience": {
     "title_section": "Experiencia Profesional"
-  },
-  "architect": {
-    "title_section": "Arquitecto de Proyectos con IA",
-    "description": "¿Tienes una idea para una app? Descríbela a continuación y deja que la IA construya un plan técnico completo para ti, incluyendo tecnologías, metodología y el equipo que necesitarás.",
-    "form_label": "Describe tu idea de proyecto",
-    "form_placeholder": "Ej: Una app móvil para seguir gastos personales con categorías de presupuesto e informes mensuales...",
-    "button_cta": "Generar Plan",
-    "button_pending": "Generando...",
-    "results_title": "Plan de Proyecto Generado",
-    "results_technologies": "Tecnologías Recomendadas",
-    "results_database": "Base de Datos",
-    "results_methodology": "Metodología de Desarrollo",
-    "results_team": "Equipo Recomendado"
   }
 }

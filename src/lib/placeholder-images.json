@@ -3,7 +3,7 @@
     {
       "id": "profile-picture",
       "description": "A professional portrait of Santiago Martínez Ayala.",
-      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI4NjA5NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1655249493799-9cee4fe983bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMwODE1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "width": 500,
       "height": 500,
       "imageHint": "professional portrait"
@@ -43,7 +43,7 @@
     {
       "id": "project-ecommerce",
       "description": "Placeholder for the Multi-Vendor E-commerce Platform project.",
-      "imageUrl": "https://images.unsplash.com/photo-1674027392887-751d6396b710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzdG9yZXxlbnwwfHx8fDE3NjI5MzkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1674027392887-751d6396b710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzdG9yZXxlbnwwfHx8fDE3NjI5MzkyOTN8MA&ixlib.rb-4.1.0&q=80&w=1080",
       "width": 600,
       "height": 400,
       "imageHint": "online store"
@@ -51,7 +51,7 @@
     {
       "id": "project-automation",
       "description": "Placeholder for the Back-Office Process Automation project.",
-      "imageUrl": "https://images.unsplash.com/photo-1736488679013-38f65b0ae82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9jZXNzJTIwYXV0b21hdGlvbnxlbnwwfHx8fDE3NjI5NjIyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1736488679013-38f65b0ae82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9jZXNzJTIwYXV0b21hdGlvbnxlbnwwfHx8fDE3NjI5NjIyOTR8MA&ixlib.rb-4.1.0&q=80&w=1080",
       "width": 600,
       "height": 400,
       "imageHint": "process automation"

@@ -1,9 +1,10 @@
+
 {
   "placeholderImages": [
     {
       "id": "profile-picture",
       "description": "A professional portrait of Santiago Martínez Ayala.",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJq5pJVvI76A/profile-displayphoto-crop_800_800/B4EZp6w4P8IwAI-/0/1762996227485?e=1764806400&v=beta&t=bP4IlGgDctn7EBTFM-52u8An_8ReljzJ68txgHuZ-XM",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJq5pJVvI76A/profile-displayphoto-crop_800_800/0/1720641028096?e=1726099200&v=beta&t=Uo_bF9a-3B-2Z5f6o4e3E1c2D3B4A5F6g7H8i9J0kL",
       "width": 500,
       "height": 500,
       "imageHint": "professional portrait"
@@ -35,7 +36,7 @@
     {
       "id": "project-chatbot",
       "description": "Placeholder for the Customer Support Chatbot project.",
-      "imageUrl": "https://images.unsplash.com/photo-1620429948700-24e48a41d5aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb2JvdCUyMGNoYXR8ZW58MHx8fHwxNzYyOTYxNTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1620429948700-24e48a41d5aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb2JvdCUyMGNoYXR8ZW58MHx8fHwxNzYyOTYxNTMyfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "width": 600,
       "height": 400,
       "imageHint": "robot chat"

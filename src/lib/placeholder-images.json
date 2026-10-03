@@ -3,9 +3,9 @@
     {
       "id": "profile-picture",
       "description": "A professional portrait of Santiago Martínez Ayala.",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJq5pJVvI76A/profile-displayphoto-crop_800_800/B4EZp6w4P8IwAI-/0/1762996227485?e=1764806400&v=beta&t=bP4IlGgDctn7EBTFM-52u8An_8ReljzJ68txgHuZ-XM",
-      "width": 500,
-      "height": 500,
+      "imageUrl": "/profile-picture.webp",
+      "width": 199,
+      "height": 149,
       "imageHint": "professional portrait"
     },
     {

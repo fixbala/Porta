@@ -8,15 +8,21 @@ export function About() {
   const { t } = useTranslation();
   const profileImage = placeholderImages.placeholderImages.find(p => p.id === 'profile-picture');
 
+  // Prefijo base para GitHub Pages en producción (igual que en contact.tsx)
+  const basePath = process.env.NODE_ENV === 'production' ? '/Porta' : '';
+  const profileSrc = profileImage && profileImage.imageUrl.startsWith('/')
+    ? `${basePath}${profileImage.imageUrl}`
+    : profileImage?.imageUrl;
+
   return (
     <section id="about" className="py-20 sm:py-32">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-5 gap-12 items-center">
           <div className="md:col-span-2">
             <div className="relative aspect-square w-full max-w-sm mx-auto">
-                {profileImage && (
+                {profileImage && profileSrc && (
                   <Image
-                    src={profileImage.imageUrl}
+                    src={profileSrc}
                     alt={t('about.image_alt')}
                     width={profileImage.width}
                     height={profileImage.height}

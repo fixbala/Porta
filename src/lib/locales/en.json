@@ -3,15 +3,21 @@
     "name": "Santiago Martínez Ayala",
     "title": "Software Developer",
     "introduction": "Hello, I'm",
-    "description": "Systems and Computer Engineer with solid experience in backend and frontend development, specializing in creating scalable, efficient, and secure solutions. Expert in the design and implementation of microservices, RESTful APIs, and distributed systems using technologies like Java, Go, Spring Boot, Python, SQL, and Angular. Passionate about technology, I stay updated on the latest software development trends, including modern frontend frameworks and high-performance programming practices. My focus is on ensuring quality, robustness, and reliability in every solution developed, always aligned with the strategic objectives of the organization.",
+    "description": "Software Developer with solid experience in backend and frontend development, specializing in creating scalable, efficient, and secure solutions. Expert in the design and implementation of microservices, RESTful APIs, and distributed systems using technologies like Java, Go, Spring Boot, Python, SQL, and Angular. Passionate about technology, I stay updated on the latest software development trends, including modern frontend frameworks and high-performance programming practices. My focus is on ensuring quality, robustness, and reliability in every solution developed, always aligned with the strategic objectives of the organization.",
     "image_alt": "Professional portrait of Santiago Martínez Ayala.",
     "title_section": "About Me"
   },
   "experiences": [
     {
+      "company": "ARAJET",
+      "role": "Fullstack Developer",
+      "period": "December 2025 - Present",
+      "description": "Migration of bot architecture, design, development, testing and deployment of RPA automations, integrating flows in Power Automate and optimizing business processes. Database migration and modeling, creation of optimized structures and management of environments, pipelines and version control in Azure DevOps. End-to-end implementation of new strategic requirements, from backend to frontend, including analysis, architecture design and productive delivery."
+    },
+    {
       "company": "SC SOLUTIONS",
-      "role": "Systems Engineer",
-      "period": "October 2024 - Present",
+      "role": "Software Developer",
+      "period": "October 2024 - November 2025",
       "description": "Installation and management of IT infrastructure. Provide support and knowledge transfer to staff in the use of technological applications and tools."
     },
     {

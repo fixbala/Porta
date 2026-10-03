@@ -42,7 +42,7 @@ export function Contact() {
               {whatsapp && (
                 <a href={whatsapp.href} target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 p-3 rounded-lg transition-colors hover:bg-primary/5">
                   <WhatsappIcon className="w-6 h-6 text-accent transition-transform group-hover:scale-110 icon-glow" />
-                  <span className="text-lg text-foreground/90 group-hover:text-primary group-hover:font-medium">(+57) 3043990600</span>
+                  <span className="text-lg text-foreground/90 group-hover:text-primary group-hover:font-medium">+34 647 59 57 60</span>
                 </a>
               )}
               

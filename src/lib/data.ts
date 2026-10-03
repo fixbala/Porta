@@ -9,14 +9,20 @@ export const about = {
   name: 'Santiago Martínez Ayala',
   title: 'Desarrollador de Software',
   introduction: "Hola, soy",
-  description: `Ingeniero de Sistemas y Computación con sólida experiencia en desarrollo backend y frontend, especializado en la creación de soluciones escalables, eficientes y seguras. Experto en el diseño e implementación de microservicios, APIs RESTful y sistemas distribuidos utilizando tecnologías como Java, Go, Spring Boot, Python, SQL y Angular. Apasionado por la tecnología, me mantengo actualizado en las últimas tendencias de desarrollo de software, incluyendo frameworks modernos de frontend y prácticas de programación de alto rendimiento. Mi enfoque está en garantizar la calidad, la robustez y la fiabilidad en cada solución desarrollada, siempre alineado con los objetivos estratégicos de la organización.`
+  description: `Desarrollador de Software con sólida experiencia en desarrollo backend y frontend, especializado en la creación de soluciones escalables, eficientes y seguras. Experto en el diseño e implementación de microservicios, APIs RESTful y sistemas distribuidos utilizando tecnologías como Java, Go, Spring Boot, Python, SQL y Angular. Apasionado por la tecnología, me mantengo actualizado en las últimas tendencias de desarrollo de software, incluyendo frameworks modernos de frontend y prácticas de programación de alto rendimiento. Mi enfoque está en garantizar la calidad, la robustez y la fiabilidad en cada solución desarrollada, siempre alineado con los objetivos estratégicos de la organización.`
 };
 
 export const experiences: Experience[] = [
     {
+        company: 'ARAJET',
+        role: 'Desarrollador Fullstack',
+        period: 'Diciembre 2025 - Actualidad',
+        description: 'Migración de la arquitectura de bots, diseño, desarrollo, pruebas y despliegue de automatizaciones RPA, integrando flujos en Power Automate y optimizando procesos empresariales. Migración y modelado de bases de datos, creación de estructuras optimizadas y gestión de entornos, pipelines y control de versiones en Azure DevOps. Implementación end-to-end de nuevos requerimientos estratégicos, desde el backend hasta el frontend, incluyendo análisis, diseño de arquitectura y entrega productiva.'
+    },
+    {
         company: 'SC SOLUTIONS',
-        role: 'Ingeniero de Sistemas',
-        period: 'Octubre 2024 - Actualidad',
+        role: 'Desarrollador de Software',
+        period: 'Octubre 2024 - Noviembre 2025',
         description: 'Instalacion y manejo de infraestrucutra TI. Brindar soporte y transferencia de conocimiento al personal en el uso de aplicaciones y herramientas tecnológicas.'
     },
     {
@@ -97,5 +103,5 @@ export const socialLinks = [
     { name: 'GitHub', href: 'https://github.com/fixbala', icon: Github },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/in/santiago-martinez-ayala/', icon: Linkedin },
     { name: 'Email', href: 'mailto:ipfixbala@gmail.com', icon: Mail },
-    { name: 'WhatsApp', href: 'https://wa.me/573043990600', icon: WhatsappIcon },
+    { name: 'WhatsApp', href: 'https://wa.me/34647595760', icon: WhatsappIcon },
 ];

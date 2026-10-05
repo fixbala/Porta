@@ -103,5 +103,5 @@ export const socialLinks = [
     { name: 'GitHub', href: 'https://github.com/fixbala', icon: Github },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/in/santiago-martinez-ayala/', icon: Linkedin },
     { name: 'Email', href: 'mailto:ipfixbala@gmail.com', icon: Mail },
-    { name: 'WhatsApp', href: 'https://wa.me/34647595760', icon: WhatsappIcon },
+    { name: 'WhatsApp', href: 'https://wa.me/34663864059', icon: WhatsappIcon },
 ];
